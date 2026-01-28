@@ -76,7 +76,15 @@
           ""
         ],
         [
+          "clearance|25620000|41770000|0fe3ffa1-cad4-4d5b-8f49-2a6517ef84ad|de318e58-6126-40cb-96aa-a63d02e59823",
+          ""
+        ],
+        [
           "clearance|26925000|37175000|b74a0913-2bce-42ab-b478-dc33e759820a|8457fbcd-8283-479a-9dfe-204089ebec92",
+          ""
+        ],
+        [
+          "courtyards_overlap|24095000|42005000|016e6b57-8764-4587-9e0a-25d5e213e33d|5edd8d64-ed47-47a7-b3f2-900fef92eef7",
           ""
         ],
         [
@@ -168,11 +176,7 @@
           ""
         ],
         [
-          "starved_thermal|28200000|44075000|425e83ed-2fcd-45b0-9e28-ae7786514097|971daabd-0893-4359-aab2-32a2249d7dab|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|29120000|44600000|425e83ed-2fcd-45b0-9e28-ae7786514097|1ee4ecd7-9411-4bff-9fb5-69f29f8593f6|F.Cu",
+          "starved_thermal|28200000|44235000|425e83ed-2fcd-45b0-9e28-ae7786514097|971daabd-0893-4359-aab2-32a2249d7dab|F.Cu",
           ""
         ],
         [
@@ -736,7 +740,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -778,7 +782,7 @@
           "group_by": false,
           "label": "Digi-Key_PN",
           "name": "Digi-Key_PN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

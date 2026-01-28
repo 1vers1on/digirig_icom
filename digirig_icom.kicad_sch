@@ -10530,7 +10530,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 222.25 91.7448 0)
 			(effects
 				(font
@@ -10550,6 +10550,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 218.44 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 218.44 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10825,6 +10834,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
+			(at 128.27 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5cf8cc5f-4c87-446e-9761-8ce4023bc6cc")
 		)
@@ -10886,6 +10904,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
+			(at 226.06 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10960,6 +10987,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "609-1046-ND"
+			(at 76.2 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "61c97cb5-d724-4d29-b4a2-78389e124bcb")
 		)
@@ -11019,7 +11055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 142.24 87.3252 0)
 			(effects
 				(font
@@ -11039,6 +11075,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 138.43 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 138.43 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11355,6 +11400,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "296-23775-2-ND"
+			(at 171.45 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "17"
 			(uuid "165a7cd2-a254-48e3-82fb-eb6b7a9b5eaa")
 		)
@@ -11510,6 +11564,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 218.44 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-47.0KLRTR-ND"
 			(at 218.44 25.4 0)
 			(effects
 				(font
@@ -11717,6 +11780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "609-1046-ND"
+			(at 114.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "f8a77fc5-5685-4bd5-9e94-bfabd380027d")
 		)
@@ -11805,6 +11877,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-1.0KJRTR-ND"
+			(at 273.05 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65464b75-5e3b-4fa8-b0f8-b7ef47eace58")
 		)
@@ -11866,6 +11947,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 269.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
+			(at 269.24 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11935,6 +12025,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 74.93 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
 			(at 74.93 184.15 0)
 			(effects
 				(font
@@ -12052,7 +12151,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 88.9 35.8648 0)
 			(effects
 				(font
@@ -12072,6 +12171,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 92.71 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 92.71 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12141,6 +12249,15 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 73.66 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "535-AOTA-B201610S3R3-101-TTR-ND"
 			(at 73.66 22.86 0)
 			(effects
 				(font
@@ -12419,6 +12536,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "4878-MMBT3904TR-ND"
+			(at 133.35 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a5e88b6e-e150-4336-b2cd-49da1bca7256")
 		)
@@ -12555,6 +12681,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-220HRTR-ND"
+			(at 156.21 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dbba050-0dbb-46fb-b0f2-6d0e333e1d45")
 		)
@@ -12617,6 +12752,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 218.44 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "P12KDCTR-ND"
 			(at 218.44 17.78 0)
 			(effects
 				(font
@@ -13291,6 +13435,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-1.0KJRTR-ND"
+			(at 81.28 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b1a84c9-d58c-4ff4-be0e-efc60053f64a")
 		)
@@ -13361,6 +13514,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-1.0KJRTR-ND"
+			(at 229.87 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85b55a6a-1590-4b8f-a80f-4555cae0c536")
 		)
@@ -13404,7 +13566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 160.9852 190.5 0)
 			(effects
 				(font
@@ -13423,6 +13585,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 160.02 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1010-2-ND"
 			(at 160.02 186.69 0)
 			(effects
 				(font
@@ -13565,6 +13736,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
+			(at 96.52 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b10ee0ab-5d91-4903-bbba-9f0eab5a801b")
 		)
@@ -13627,6 +13807,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 21.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
 			(at 21.59 43.18 0)
 			(effects
 				(font
@@ -13868,6 +14057,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 223.52 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b252f42-6728-4ee6-b3ef-e1ea19be1da7")
 		)
@@ -13930,6 +14128,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 62.23 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14113,7 +14320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 106.3752 36.83 0)
 			(effects
 				(font
@@ -14132,6 +14339,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
 			(at 105.41 33.02 0)
 			(effects
 				(font
@@ -14313,7 +14529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 128.27 20.6248 0)
 			(effects
 				(font
@@ -14333,6 +14549,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 132.08 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 132.08 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14447,7 +14672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 196.85 40.9448 0)
 			(effects
 				(font
@@ -14467,6 +14692,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 200.66 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15040,6 +15274,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "490-6186-2-ND"
+			(at 49.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5c531d6-a632-4806-911b-56cdb3ce05f2")
 		)
@@ -15435,6 +15678,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "535-ABM8-272-T3TR-ND"
+			(at 36.83 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "93989b00-8c9c-4380-aa79-b095504e29a2")
 		)
@@ -15509,6 +15761,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-1.0KJRTR-ND"
+			(at 236.22 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f312ea47-ed59-4c2f-ae30-e459cf9cede7")
 		)
@@ -15570,6 +15831,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 185.42 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 185.42 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15779,6 +16049,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 21.59 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6db5a86e-c6e7-4891-998f-d5210343c38c")
 		)
@@ -15981,6 +16260,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-22.0LRTR-ND"
+			(at 59.69 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a11062a-f09f-48dc-afee-4fef36093668")
 		)
@@ -16108,6 +16396,15 @@
 			)
 		)
 		(property "Description" "Low Quiescent Current LDO Regulator, 3.3V, 250mA, Vin<=16V, SOT-223"
+			(at 147.32 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "MCP1703A-3302E/DB-ND"
 			(at 147.32 182.88 0)
 			(effects
 				(font
@@ -16483,6 +16780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-470LRTR-ND"
+			(at 142.24 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2564aa6-63a3-4eed-bee4-ca63ca3c4cdd")
 		)
@@ -16659,7 +16965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 134.9248 190.5 0)
 			(effects
 				(font
@@ -16678,6 +16984,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 135.89 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1010-2-ND"
 			(at 135.89 186.69 0)
 			(effects
 				(font
@@ -16881,6 +17196,15 @@
 			)
 		)
 		(property "Description" "2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, X2SON-8"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "296-28368-2-ND"
 			(at 236.22 53.34 0)
 			(effects
 				(font
@@ -17307,6 +17631,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "CKN10384TR-ND"
+			(at 25.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7dbb0d85-966f-4788-8c1b-4cc28f909dd0")
 		)
@@ -17566,6 +17899,15 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Diode, SMA"
+			(at 24.13 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "SS14TR-ND"
 			(at 24.13 195.58 0)
 			(effects
 				(font
@@ -18157,6 +18499,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-10.0KLRTR-ND"
+			(at 146.05 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3019c4e0-1cf9-4457-b96e-b27a1bdd5837")
 		)
@@ -18294,6 +18645,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "2648-SC1511(13)-A4TR-ND"
+			(at 33.02 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18609,6 +18969,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "SS14TR-ND"
+			(at 24.13 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08d0d2a0-c237-40f9-8c98-3ab685ab5cd1")
 		)
@@ -18650,7 +19019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 135.89 27.6352 0)
 			(effects
 				(font
@@ -18670,6 +19039,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 132.08 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 132.08 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18785,7 +19163,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 96.2152 16.51 0)
 			(effects
 				(font
@@ -18804,6 +19182,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 95.25 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
 			(at 95.25 20.32 0)
 			(effects
 				(font
@@ -18947,6 +19334,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 156.21 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "475-LSQ976-NR-1TR-ND"
 			(at 156.21 147.32 0)
 			(effects
 				(font
@@ -19556,6 +19952,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 138.43 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "16fc02ab-fb9b-45fc-9b59-f7593696bad0")
 		)
@@ -19684,6 +20089,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 101.6 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-33JRTR-ND"
+			(at 101.6 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19820,6 +20234,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1043-2-ND"
+			(at 101.6 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19966,6 +20389,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "296-14117-2-ND"
+			(at 204.47 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "0a63b1e8-2086-46dd-bc30-0ee0caef802e")
 		)
@@ -20073,6 +20505,15 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 151.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "4878-MMBT3904TR-ND"
 			(at 151.13 118.11 0)
 			(effects
 				(font
@@ -20221,6 +20662,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "296-14117-2-ND"
+			(at 252.73 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "e9bed797-e08a-4313-8dd5-1b353dd1efc4")
 		)
@@ -20333,6 +20783,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "490-6186-2-ND"
+			(at 22.86 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "532b21bd-e23d-4fe3-a89a-672d6a3ad367")
 		)
@@ -20394,6 +20853,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 265.43 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-100KJRTR-ND"
+			(at 265.43 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20602,6 +21070,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "311-1.0KJRTR-ND"
+			(at 100.33 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b26c49a4-b1ae-485b-9e92-9f65343ec3a9")
 		)
@@ -20736,6 +21213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digi-Key_PN" "5405-241106-ND"
+			(at 44.45 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "01a4c36e-1d9a-4aae-83fc-5c7c0d5f9b89")
 		)
@@ -20786,7 +21272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 265.43 80.3148 0)
 			(effects
 				(font
@@ -20806,6 +21292,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 261.62 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1276-1482-2-ND"
+			(at 261.62 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20875,6 +21370,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 57.15 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "311-22.0LRTR-ND"
 			(at 57.15 187.96 0)
 			(effects
 				(font
